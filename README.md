@@ -1,3 +1,35 @@
+## Proposta 1
+
+### Projeto de extensão
+
+#### Encontro 1/02 9:00 até 11:20. Sábado.
+
+- Tem que ter **envolvimento com a comunidade externa**;
+- Primeiro tem que ter a **validação do projeto pelo orientador**;
+- Escolher uma **persona** é essencial;
+- Tem que ser um **projeto externo**, tem que ter um **cliente**, não pode ser imoral e nem fora da lei;
+- Após ter um projeto definido, teremos um **diário de bordo**. Será aonde iremos registrar as ações e horas dedicadas;
+
+- Conceito de **TAP**:
+
+> O que é o termo de abertura do projeto? O termo de abertura do projeto (TAP) é um documento que formaliza o início de um projeto, confere autoridade ao gerente de projeto e agrupa todas as informações necessárias para a execução das atividades envolvidas;
+
+- Precisamos fazendo um brainstorm;
+
+- No **Moodle** no mínimo o relatorio final, modelo de bordo, e timesheet.
+
+Proposta 
+
+Nome provisório do projeto:
+Descrição funcional do projeto:
+Descrição técnica:
+Plano de ação inicial:
+
+Observações:
+Privacidade:
+Equipe proposta:
+
+
 
 > A descrição técnica e plano de ação não se difere tanto de projeto para projeto. No maximo algumas adições ou remoções.
 
